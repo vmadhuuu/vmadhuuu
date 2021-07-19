@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Madhumitha Venkatesan, a second year student at SRMIST, Chennai, India.
+- 👋 Hi, I’m Madhumitha Venkatesan, an undergraduate student at SRMIST, Chennai, India.
 - 👀 I’m interested in Python coding, Data Science and Machine Learning.
-- 🌱 I’m currently learning Machine Learning and Data Science.
+- 🌱 I’m currently learning math for ML, statistics and ML algorithms.
 - 📫 How to reach me: madhuabi01@yahoo.com.
 
 <!---
