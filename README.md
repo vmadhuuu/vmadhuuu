@@ -11,7 +11,7 @@
 - 👋 Master's in CS at @UC Davis.
 - 👀 I’m into Data Science, Statistics, and Machine Learning.
 - 🌱 I’m currently learning R and SQL and upskilling towards becoming a Data Engineer.
-- 📫 Reach me at <a href = "madhuabi19@gmail.com" target = "_blank">vmadhuuu</a>
+- 📫 Reach me at madhuabi19@gmail.com
 
  
  <br> <br> <br>
