@@ -9,7 +9,7 @@
 #### About Me ✨
 
 - 👋 Master's in CS at @UC Davis.
-- 👀 I’m into Data Science, Statistics, and Machine Learning with an interest in Fintech.
+- 👀 I’m into Data Science, Statistics, and Machine Learning..
 - 🌱 I’m currently learning R and SQL and upskilling towards becoming a Data Engineer.
 - 📫 Reach me at <a href = "madhuabi19@gmail.com" target = "_blank">hitmeup@vmadhuuu</a>
 
