@@ -6,7 +6,7 @@
 <img src = "https://komarev.com/ghpvc/?username=vmadhuuu&color=040336 " />
 </p>
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vmadhuuu&theme=nightowl&border_radius=20" />
-####About Me ✨
+<h1>About Me ✨</h1>
 
 - 👋 Master's in CS at @UC Davis.
 - 👀 I’m into Data Science, Statistics, and Machine Learning.
