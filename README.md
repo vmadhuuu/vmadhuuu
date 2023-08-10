@@ -1,7 +1,25 @@
-- 👋 Hi, I’m Madhumitha Venkatesan, a Computer Science undergraduate student at SRMIST, Chennai, India.
-- 👀 I’m into Machine Learning with an interest in NLP and ML in FinTech.
-- 🌱 I’m currently learning math and statistics for ML, ML algorithms, and SQL.
-- 📫 How to reach me: madhuabi19@gmail.com
+
+
+<p align = "center">
+
+  <a href = "https://www.linkedin.com/in/vmadhuuu/" target = "_blank"><img src = "https://img.shields.io/badge/-vmadhuuu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vmadhuuu/" /></a>
+<img src = "https://komarev.com/ghpvc/?username=vmadhuuu&color=040336 " />
+</p>
+
+#### About Me ✨
+
+- 👋 Master's in CS at @UC Davis.
+- 👀 I’m into Data Science, Statistics, and Machine Learning with an interest in Fintech.
+- 🌱 I’m currently learning R and SQL and upskilling towards becoming a Data Engineer.
+- 📫 Reach me at <a href = "madhuabi19@gmail.com" target = "_blank">hitmeup@vmadhuuu</a>
+
+ <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vmadhuuu&theme=nightowl&border_radius=20" />
+<p align = "center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vmadhuuu&theme=nightowl&count_private=true&include_all_commits=true&border_radius=20&show_icons=true&custom_title=%20Madhumitha%27s%20GitHub%20Stats%20" width="460" />
+</p>
+<p align = "center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmadhuuu&theme=nightowl&layout=compact&langs_count=16&border_radius=20&count_private=true&include_all_commits=true&custom_title=%20Most%20Used%20Languages%20By%20Me" />
+</p>
 
 <!---
 vmadhuuu/vmadhuuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
