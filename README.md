@@ -10,7 +10,7 @@
 
 - 👋 Master's in CS at @UC Davis.
 - 👀 I’m into Data Science, Statistics, and Machine Learning.
-- 🌱 I’m currently learning R and SQL and upskilling towards becoming a Data Scientist/Data Engineer/Machine Learning Engineer.
+- 🌱 I’m currently learning R and SQL and upskilling towards becoming a Data Scientist/Machine Learning Engineer.
 - 📫 Reach me at <a href = "https://madhuu.dev/" target = "_blank">hitmeup@madhu</a>
 
  
