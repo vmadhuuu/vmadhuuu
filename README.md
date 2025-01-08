@@ -17,7 +17,7 @@
 <br>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=vmadhuuu&theme=nightowl&count_private=true&include_all_commits=true&border_radius=20&show_icons=true&custom_title=%20My%20GitHub%20Stats%20"/>
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vmadhuuu&theme=nightowl&border_radius=20" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vmadhuuu&theme=nightowl&border_radius=20" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmadhuuu&langs_count=8&theme=nightowl&layout=donut&custom_title=%23%20Most%20Used%20Languages&show_icons=true" />
 </div>
 
