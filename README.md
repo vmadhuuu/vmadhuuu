@@ -9,9 +9,9 @@
 
 <h1 align="center">About Me ✨</h1>
 <ul style="list-style-type:square">
-<li>👋 Master's in CS at @UC Davis.</li>
+<li>👋 PhD in CS at @UC Davis.</li>
 <li>👀 I’m into Data Science, Statistics, and Machine Learning.</li>
-<li>🌱 I’m currently learning R and SQL and upskilling towards becoming a Data Scientist/Machine Learning Engineer.</li>
+<li>🌱 I’m currently diving deeper into Deep Learning and upskilling towards becoming a Machine Learning Engineer/Applied Scientist.</li>
 <li>📫 Reach me at <a href = "https://madhuu.dev/" target = "_blank">@madhu</a></li>
 </ul>
 <br>
