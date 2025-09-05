@@ -9,7 +9,7 @@
 
 <h1 align="center">About Me ✨</h1>
 <ul style="list-style-type:square">
-<li>👋 PhD in CS at @UC Davis.</li>
+<li>👋 PhD in CS @ UC Davis.</li>
 <li>👀 I’m into Machine Learning and Visual Analytics.</li>
 <li>🌱 I’m currently diving deeper into topics like Multimodality and Agentic AI systems and upskilling towards becoming a Machine Learning Engineer/Applied Scientist.</li>
 <li>📫 Reach me at <a href = "https://madhuu.dev/" target = "_blank">@madhu</a></li>
